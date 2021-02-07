@@ -1,5 +1,5 @@
 
-## MKS_TFT_LASER
+## MKS_TFT_CNC
 
 ### Support screen
 - TFT24
